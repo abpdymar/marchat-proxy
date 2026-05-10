@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: marchat-proxy
-    env: node
-    buildCommand: ""
-    startCommand: node server.js
-    plan: free
